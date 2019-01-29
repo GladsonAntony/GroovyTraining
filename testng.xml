@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebDriver Manager Suite">
+  <test name="Test All Browsers">
+    <classes>
+      <class name="Examples.Test1_DataType"/>
+      <class name="Examples.Test2_DataTypeConversion"/>
+      <class name="Examples.Test3_Loops"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
